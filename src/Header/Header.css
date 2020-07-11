@@ -1,0 +1,27 @@
+.my-header {
+    display: flex;
+    padding: 10px 20px;
+    width: 100%;
+
+
+    justify-content: space-between;
+    align-items: center;
+}
+.my-header .header-logo {
+    display: flex;
+    height: 60px;
+}
+.header-wrapper {
+    display: flex;
+    justify-content: space-between;
+
+
+}
+.wrapper-link {
+    text-decoration: none;
+    margin: 0 10px;
+    color: silver;
+}
+.wrapper-link:hover {
+    color: black;
+}
