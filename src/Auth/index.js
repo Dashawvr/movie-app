@@ -23,8 +23,7 @@ class AuthProvider extends Component {
 
 export function WithAuth() {
     return class AuthHOC extends Component{
-        // render() {
-        // }
+
     }
 }
 
