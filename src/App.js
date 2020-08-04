@@ -130,7 +130,6 @@ function App() {
             <Footer/>
         </div>
 </AuthProvider>
-
     );
 }
 
